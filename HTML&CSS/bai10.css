@@ -1,0 +1,79 @@
+.container{
+    width: 1002px;
+}
+
+.header{
+    width: 1000px;
+    height: 200px;
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid red;
+}
+
+.header-title{
+    float: left;
+    width: 800px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: right;
+    height: 80px;
+    background-color: red;
+    color: #FFFFFF;
+    
+}
+
+.header-noidung{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    width: 800px;
+    height: 110px;
+    font-size: 30px;
+    text-align: center;
+    float: left;
+    background-color: pink;
+    color: red;
+}
+
+.header-left{
+    width: 800px;
+    float: left;
+}
+.header-image{
+    width: 200px;
+    
+    float:left;
+    
+}
+
+.content {
+    width: 1000px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.content-left{
+    float: left;
+    width: 498px;
+    height: 250px;
+    border: 1px solid red;
+    margin: 0px;
+
+}
+
+.content-right{
+    float: left;
+    width: 498px;
+    height: 250px;
+    border: 1px solid red;
+    margin: 0px;
+}
+
+.content-left font{
+    color: red;
+    font-weight: bold;
+}
+
+.content-right font{
+    color: red;
+    font-weight: bold;
+}

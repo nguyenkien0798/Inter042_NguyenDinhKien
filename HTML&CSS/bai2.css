@@ -1,0 +1,33 @@
+h1{
+    color: green;
+    text-align: center;
+}
+
+.rq {
+    color: blue;
+}
+
+.title {
+    color: rgb(214, 88, 147);
+    background-color: pink;
+    text-align: center;
+}
+
+.container{
+    background-color: rgb(231, 231, 121);
+}
+
+.doan1{
+    color: blue;
+    text-align: center;
+}
+
+.doan2{
+    color: orange;
+    text-align: center;
+}
+
+.doan3{
+    color: green;
+    text-align: center;
+}

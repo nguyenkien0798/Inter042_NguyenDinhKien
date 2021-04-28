@@ -1,0 +1,19 @@
+.container{
+    height: 375px;
+    background-color: #FFFFFF;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW6iXj_aUMiGNlIAWNPjM4xD0TM2Rrc3jzDw&usqp=CAU");
+}
+
+.title{
+    color: #008888;
+    text-align: center;    
+}
+
+.content{
+    color: #008888;
+}
+
+.doan1{
+    color: #FFFFFF;
+    background-color: #339999;
+}

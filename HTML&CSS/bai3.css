@@ -1,0 +1,17 @@
+.container{
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 300px;    
+    background: #A06D21;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS41AYJLHZ6xYFm-AEaB7JqQBhfB4LeDutgEw&usqp=CAU");
+    font-size: 25px;
+    color: orange;
+    text-align: center;
+}
+
+.content{
+    font-size: 20px;
+    color: #FFFFFF;
+}

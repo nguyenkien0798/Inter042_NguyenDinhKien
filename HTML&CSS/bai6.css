@@ -1,0 +1,15 @@
+.title{
+    text-align: center;
+    border:10px double orangered;
+    color: orange;
+    height: 100px;
+}
+
+.content font{
+    color: red;
+    font-size: bold;
+}
+
+.content i {
+    background-color: yellow;
+}

@@ -1,0 +1,39 @@
+.title{
+    color: palevioletred;
+    text-align: center;
+}
+
+.content-left{
+    float: left;
+    display: block;
+}
+
+.content-right_top li{
+    list-style-type: square;
+}
+
+.content-right_bottom li{
+    list-style: circle;
+}
+
+.content-right_top font{
+    color: #FFFFFF;
+    background-color: palevioletred;
+}
+
+.content-right_bottom font{
+    color: #FFFFFF;
+    background-color: palevioletred;
+}
+
+.copyright span{
+    color: #511c8f;
+    font-weight:  bold;
+    text-decoration: none;
+}
+
+.copyright  p{
+    color: blue;
+    font-weight: bold;
+    text-decoration: underline ;
+}
